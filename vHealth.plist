@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://dlvchat.vivo.xyz/ic_launcher.png</string>
+					<string>https://raw.githubusercontent.com/weskhen/vhealth/master/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://dlvchat.vivo.xyz/ic_launcher.png</string>
+					<string>https://raw.githubusercontent.com/weskhen/vhealth/master/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
